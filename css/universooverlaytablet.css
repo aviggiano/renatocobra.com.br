@@ -1,0 +1,247 @@
+
+@font-face {
+                          font-family: "Firme-Light";
+                          src: url('../fonts/Firme Light.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "Firme-MediumItalic";
+                          src: url('../fonts/Firme Medium Italic.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "Firme-Book";
+                          src: url('../fonts/Firme Book.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "AndesRoundedW03-SemiBold";
+                          src: url('../fonts/Andes Rounded W03 SemiBold.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "Firme-Black";
+                          src: url('../fonts/Firme Black.otf') format("opentype");
+                        }
+                        
+.universooverlaytablet {
+  width               : 100%;
+  min-width           : 768px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.universooverlaytablet .ctd {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 729px;
+  margin-right        : -2px;
+  height              : 725px;
+  pointer-events      : auto;
+  margin-top          : -90px;
+  margin-left         : 2px;
+  position            : relative;
+  margin-bottom       : 90px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.universooverlaytablet .ctd-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0;
+  align-items         : center;
+  height              : 100%;
+  width               : 100%;
+  justify-content     : center;
+  position            : relative;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.universooverlaytablet .ctd .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 181px;
+  height              : 544px;
+  width               : 726px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.universooverlaytablet .ctd .group .saberdecabe347a351n343 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 61px;
+  height              : auto;
+  width               : 728px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.universooverlaytablet .ctd .group .ouniversodocorpo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 687px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.universooverlaytablet .ctd .btnoverlay {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 41px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 594px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.3s ease-in-out;
+}
+.universooverlaytablet .ctd .btnoverlay:hover {
+  transform           : scale(1.05);
+}
+.universooverlaytablet .ctd .btnoverlay .rectanglecopy3 {
+  background-color    : rgba(248, 167, 107, 1.0);
+  top                 : 0px;
+  height              : 41px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 14px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.universooverlaytablet .ctd .btnoverlay .voltaraosite {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

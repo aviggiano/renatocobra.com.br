@@ -1,0 +1,486 @@
+
+@font-face {
+                          font-family: "Firme-Light";
+                          src: url('../fonts/Firme Light.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "Firme-MediumItalic";
+                          src: url('../fonts/Firme Medium Italic.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "Firme-Book";
+                          src: url('../fonts/Firme Book.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "AndesRoundedW03-SemiBold";
+                          src: url('../fonts/Andes Rounded W03 SemiBold.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "Firme-Black";
+                          src: url('../fonts/Firme Black.otf') format("opentype");
+                        }
+                        
+.overlaymobile {
+  width               : 100%;
+  min-width           : 320px;
+  height              : 100vh;
+  min-height          : 469px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+textarea:focus, input:focus {
+  outline             : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.overlaymobile .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0%;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.overlaymobile .contato {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 303px;
+  margin-left         : -0px;
+  height              : 303px;
+  pointer-events      : auto;
+  margin-right        : 0px;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.overlaymobile .contato-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0;
+  align-items         : center;
+  height              : 100%;
+  width               : 100%;
+  justify-content     : center;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.overlaymobile .contato .contato1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 59px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 40.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 48.0px;
+}
+.overlaymobile .contato .txtsobredepoimentos {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : 254px;
+  width               : 297px;
+  position            : absolute;
+  margin              : 0;
+  left                : 6px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.overlaymobile .contato .txtsobredepoimentos .mandesuamensagemp {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 47px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.overlaymobile .contato .txtsobredepoimentos .oumandeumemailpa {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 237px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.overlaymobile .contato .txtsobredepoimentos .oumandeumemailpa .span1 {
+  text-align          : justify;
+}
+.overlaymobile .contato .txtsobredepoimentos .oumandeumemailpa .span2 {
+  font-family         : "Firme-Black", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.overlaymobile .contato .forms {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 82px;
+  height              : 195px;
+  width               : 297px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.overlaymobile .contato .forms .nome {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 28px;
+  width               : 297px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.overlaymobile .contato .forms .nome .rectangle1 {
+  background-color    : rgba(239, 237, 237, 0.6);
+  top                 : 0px;
+  height              : 28px;
+  width               : 297px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 13px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.overlaymobile .contato .forms .nome .textnome {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -1px;
+  height              : 30px;
+  width               : 275px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+  border              : 0;
+  resize              : none;
+  padding             : 0;
+}
+.overlaymobile .contato .forms .nome .textnome::placeholder {
+  color               : rgba(0, 0, 0, 0.6);
+}
+.overlaymobile .contato .forms .empresa {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : 28px;
+  width               : 297px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.overlaymobile .contato .forms .empresa .rectanglecopy {
+  background-color    : rgba(239, 237, 237, 0.6);
+  top                 : 0px;
+  height              : 28px;
+  width               : 297px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 13px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.overlaymobile .contato .forms .empresa .textemail {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -1px;
+  height              : 30px;
+  width               : 275px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+  border              : 0;
+  resize              : none;
+  padding             : 0;
+}
+.overlaymobile .contato .forms .empresa .textemail::placeholder {
+  color               : rgba(0, 0, 0, 0.6);
+}
+.overlaymobile .contato .forms .email {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 78px;
+  height              : 84px;
+  width               : 297px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.overlaymobile .contato .forms .email .rectanglecopy2 {
+  background-color    : rgba(239, 237, 237, 0.6);
+  top                 : 0px;
+  height              : 84px;
+  width               : 297px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 14px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.overlaymobile .contato .forms .email .textmensagem {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 67px;
+  width               : 275px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+  border              : 0;
+  resize              : none;
+  padding             : 0;
+}
+.overlaymobile .contato .forms .email .textmensagem::placeholder {
+  color               : rgba(0, 0, 0, 0.6);
+}
+.overlaymobile .contato .forms .btnenv {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 172px;
+  height              : 23px;
+  width               : 74px;
+  position            : absolute;
+  margin              : 0;
+  left                : 112px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.3s ease-in-out;
+}
+.overlaymobile .contato .forms .btnenv:hover {
+  transform           : scale(1.05);
+}
+.overlaymobile .contato .forms .btnenv .rectanglecopy3 {
+  background-color    : rgba(248, 167, 107, 1.0);
+  top                 : 0px;
+  height              : 23px;
+  width               : 74px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.overlaymobile .contato .forms .btnenv .enviar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : auto;
+  width               : 76px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 14.0px;
+}
+.overlaymobile .btnoverlay {
+  background-color    : rgba(255,255,255,0.0);
+  right               : calc(0.00% + 18px);
+  top                 : calc(0.00% + 15px);
+  height              : 27px;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.3s ease-in-out;
+}
+.overlaymobile .btnoverlay:hover {
+  transform           : scale(1.05);
+}
+.overlaymobile .btnoverlay .rectanglecopy3 {
+  background-color    : rgba(248, 167, 107, 1.0);
+  top                 : 0px;
+  height              : 27px;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 13px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.overlaymobile .btnoverlay .voltaraosite {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : auto;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

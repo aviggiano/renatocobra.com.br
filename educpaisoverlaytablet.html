@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="./img/favicon.png" rel="shortcut icon"/>
+        <meta charset="utf-8"/>
+        <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0" name="viewport"/>
+        <link href="./css/educpaisoverlaytablet.css" rel="stylesheet" type="text/css"/>
+        <meta content="Launchpad by Anima" name="author">
+        </meta>
+    </head>
+    <body style="margin: 0;
+ background: rgba(255, 255, 255, 1.0);">
+        <input id="anPageName" name="page" type="hidden" value="educpaisoverlaytablet"/>
+        <div class="educpaisoverlaytablet">
+            <div class="group2-layout-container">
+                <div class="group2">
+                    <div class="reeducandopaispara">
+                        <span class="span1">REEDUCANDO PAIS PARA EDUCAR FILHOS</span><span class="span2"><br /><br /></span><span class="span3">Os pais passam para os filhos consciente ou inconscientemente muito do que receberam, impregnam neles o seu próprio comportamento porque, no fundo, mais importante do que o que os pais falam para os filhos é como eles agem, o que fazem e como se comportam. Além da genética, a maior herança que os pais deixam para os filhos é seu comportamento.</span><span class="span4"><br /><br /></span>
+                    </div>
+                    <div class="oficinacobraconta">
+                        <span class="span1">OFICINA</span><span class="span2"><br /><br /></span><span class="span3">COBRA conta com ferramentas inéditas, já que desenvolveu um método de identificação e reciclagem comportamental através do equilíbrio físico dinâmico. Por meio do corpo será identificado e trabalhado o “Como eu faço tudo que faço” potencializando os principais pontos comportamentais para uma alta performance na vida para que os pais identifiquem em seus próprios comportamentos em quais níveis estão suas qualidades fundamentais e aprimorá-las para compartilhar com seus filhos o mais alto nível possível dessas qualidades. Para isso é necessário que antes os pais aprimorem essas virtudes neles próprios, revendo e renovando suas condutas para assim transmitir sua melhor versão. Estimular a atualização e renovação propondo interações prazerosas entre pais e filhos com ganho real de uma forma de viver mais harmônica e eficiente.<br />Serão trabalhadas atividades lúdicas e desafiadoras com segurança e sempre respeitando a gradatividade para através do corpo evoluir as questões comportamentais e atingir a alta performance na vida.<br /></span>
+                    </div>
+                    <div class="dom355nioemocionalu2013">
+                        *Domínio Emocional – forte é quem outros vence, poderoso é quem domina a si mesmo. <br />*Foco e Concentração – atenção dispersa fragmenta a mente. <br />*Administração do Stress – aprendendo a escutar a resiliência. <br />*Maleabilidade – corpo maleável mente flexível. <br />*Atitude – potência sem controle não é nada.  <br />*Ritmo – fundamental para a vida. <br />*Assertividade – mais vale um pequeno esforço na hora certa do que um grande esforço na hora errada. <br />*Auto Maestria – a arte da auto regência. <br /><br />Serão 03 encontros com duração de aproximadamente 03 horas cada para grupos de 25 pais. <br />Encontros 1 e 2: Introdução filosófica, identificação e reciclagem comportamental com os pais. <br />Encontro 3: Transmissão do aprimoramento dos pais para os filhos. <br />
+                    </div>
+                    <a href="javascript:animaHideOverlay('educpaisoverlaytablet', 'anima-animate-disappear');">
+                        <div class="btnoverlay">
+                            <div class="rectanglecopy3">
+                            </div>
+                            <div class="voltaraosite">
+                                Voltar ao site
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="rectangle-layout-container">
+                <div class="rectangle">
+                    <iframe allowfullscreen="allowfullscreen" anima-src="https://www.youtube.com/embed/0KNY2vdH2YI?rel=0" frameborder="0" height="100%" id="ytplayer" mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" src="" style="border: 0;" type="text/html" webkitallowfullscreen="webkitallowfullscreen" width="100%">
+                    </iframe>
+                </div>
+            </div>
+        </div>
+        <!-- Scripts -->
+        <script>
+            anima_isHidden = function(e) {
+                if (!(e instanceof HTMLElement)) return !1;
+                if (getComputedStyle(e).display == "none") return !0; else if (e.parentNode && anima_isHidden(e.parentNode)) return !0;
+                return !1;
+            };
+            anima_loadAsyncSrcForTag = function(tag) {
+                var elements = document.getElementsByTagName(tag);
+                var toLoad = [];
+                for (var i = 0; i < elements.length; i++) {
+                    var e = elements[i];
+                    var src = e.getAttribute("src");
+                    var loaded = (src != undefined && src.length > 0 && src != 'data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==');
+                    if (loaded) continue;
+                    var asyncSrc = e.getAttribute("anima-src");
+                    if (asyncSrc == undefined || asyncSrc.length == 0) continue;
+                    if (anima_isHidden(e)) continue;
+                    toLoad.push(e);
+                }
+                toLoad.sort(function(a, b) {
+                    return anima_getTop(a) - anima_getTop(b);
+                });
+                for (var i = 0; i < toLoad.length; i++) {
+                    var e = toLoad[i];
+                    var asyncSrc = e.getAttribute("anima-src");
+                    e.setAttribute("src", asyncSrc);
+                }
+            };
+            anima_pauseHiddenVideos = function(tag) {
+                var elements = document.getElementsByTagName("video");
+                for (var i = 0; i < elements.length; i++) {
+                    var e = elements[i];
+                    var isPlaying = !!(e.currentTime > 0 && !e.paused && !e.ended && e.readyState > 2);
+                    var isHidden = anima_isHidden(e);
+                    if (!isPlaying && !isHidden && e.getAttribute("autoplay") == "autoplay") {
+                        e.play();
+                    } else if (isPlaying && isHidden) {
+                        e.pause();
+                    }
+                }
+            };
+            anima_loadAsyncSrc = function(tag) {
+                anima_loadAsyncSrcForTag("img");
+                anima_loadAsyncSrcForTag("iframe");
+                anima_loadAsyncSrcForTag("video");
+                anima_pauseHiddenVideos();
+            };
+            var anima_getTop = function(e) {
+                var top = 0;
+                do {
+                    top += e.offsetTop || 0;
+                    e = e.offsetParent;
+                } while (e);
+                return top;
+            };
+            anima_loadAsyncSrc();
+            anima_old_onResize = window.onresize;
+            anima_new_onResize = undefined;
+            anima_updateOnResize = function() {
+                if (anima_new_onResize == undefined || window.onresize != anima_new_onResize) {
+                    anima_new_onResize = function(x) {
+                        if (anima_old_onResize != undefined) anima_old_onResize(x);
+                        anima_loadAsyncSrc();
+                    };
+                    window.onresize = anima_new_onResize;
+                    setTimeout(function() {
+                        anima_updateOnResize();
+                    }, 3000);
+                }
+            };
+            anima_updateOnResize();
+            setTimeout(function() {
+                anima_loadAsyncSrc();
+            }, 200);
+        </script>
+        <!-- End of Scripts -->
+    </body>
+</html>

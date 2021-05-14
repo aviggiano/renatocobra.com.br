@@ -1,0 +1,1042 @@
+
+@font-face {
+                          font-family: "Firme-Light";
+                          src: url('../fonts/Firme Light.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "Firme-MediumItalic";
+                          src: url('../fonts/Firme Medium Italic.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "Firme-Book";
+                          src: url('../fonts/Firme Book.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "AndesRoundedW03-SemiBold";
+                          src: url('../fonts/Andes Rounded W03 SemiBold.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "Firme-Black";
+                          src: url('../fonts/Firme Black.otf') format("opentype");
+                        }
+                        
+.bp1-hipismoreport {
+  width               : 100%;
+  min-width           : 1025px;
+  height              : 100vh;
+  min-height          : 2800px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-hipismoreport .bp1-desenvolvendocomka {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 988px;
+  margin-right        : 0px;
+  height              : auto;
+  pointer-events      : auto;
+  margin-left         : -0px;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.bp1-hipismoreport .bp1-desenvolvendocomka-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 1913px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp1-hipismoreport .bp1-group {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 988px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-hipismoreport .bp1-group-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 15px;
+  align-items         : center;
+  height              : 2141px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp1-hipismoreport .bp1-group .bp1-amaneiracomosejo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 147px;
+  height              : auto;
+  width               : 988px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.bp1-hipismoreport .bp1-group .bp1-treinamentopioneiro {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 51px;
+  height              : auto;
+  width               : 986px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.bp1-hipismoreport .bp1-group .bp1-unnamed {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 325px;
+  height              : 741px;
+  width               : 988px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-hipismoreport .bp1-group .bp1-saberdecabe347a351n343 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1143px;
+  height              : auto;
+  width               : 988px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.bp1-hipismoreport .bp1-group .bp1-observebemodomini {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1072px;
+  height              : auto;
+  width               : 988px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.bp1-hipismoreport .bp1-group .bp1-todostemosaevolui {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1981px;
+  height              : auto;
+  width               : 988px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.bp1-hipismoreport .bp1-group .bp1-video-curto {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 2160px;
+    height              : auto;
+    width               : 988px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "Firme-Light", Helvetica, Arial, serif;
+    font-size           : 16.0px;
+    color               : rgba(0, 0, 0, 1.0);
+    text-align          : left;
+    line-height         : 19.0px;
+}
+.bp1-hipismoreport .bp1-group .bp1-imagem2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1232px;
+  height              : 658px;
+  width               : 988px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-hipismoreport .bp1-group .bp1-btnrtn {
+  background-color    : rgba(255,255,255,0.0);
+  right               : calc(0.00% + 1px);
+  top                 : 0%;
+  height              : 41px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-hipismoreport .bp1-group .bp1-btnrtn .bp1-rectanglecopy3 {
+  background-color    : rgba(248, 167, 107, 1.0);
+  top                 : 0px;
+  height              : 41px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 14px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-hipismoreport .bp1-group .bp1-btnrtn .bp1-voltaraosite {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp2-hipismoreporttablet {
+  width               : 100%;
+  min-width           : 768px;
+  height              : 100vh;
+  min-height          : 2323px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp2-hipismoreporttablet .bp2-group {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 743px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-hipismoreporttablet .bp2-group-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 15px;
+  align-items         : center;
+  height              : 1738px;
+  width               : 100%;
+  position            : relative;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp2-hipismoreporttablet .bp2-group .bp2-amaneiracomosejo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 157px;
+  height              : auto;
+  width               : 744px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.bp2-hipismoreporttablet .bp2-group .bp2-treinamentopioneiro {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 68px;
+  height              : auto;
+  width               : 742px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.bp2-hipismoreporttablet .bp2-group .bp2-unnamed {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 306px;
+  height              : 557px;
+  width               : 743px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-hipismoreporttablet .bp2-group .bp2-saberdecabe347a351n343 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 915px;
+  height              : auto;
+  width               : 743px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.bp2-hipismoreporttablet .bp2-group .bp2-observebemodomini {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 867px;
+  height              : auto;
+  width               : 743px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.bp2-hipismoreporttablet .bp2-group .bp2-todostemosaevolui {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1546px;
+  height              : auto;
+  width               : 743px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.bp2-hipismoreporttablet .bp2-group .bp2-imagem2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1008px;
+  height              : 495px;
+  width               : 743px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-hipismoreporttablet .bp2-group .bp2-desenvolvendocomka {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1507px;
+  height              : auto;
+  width               : 742px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.bp2-hipismoreporttablet .bp2-group .bp2-video-curto {
+    top                 : 1770px;
+    height              : auto;
+    width               : 742px;
+    position            : absolute;
+    margin              : 0;
+    left                : 1px;
+}
+.bp2-hipismoreporttablet .bp2-group .bp2-btnoverlay {
+  background-color    : rgba(255,255,255,0.0);
+  right               : calc(0.00% + 2px);
+  top                 : 0%;
+  height              : 41px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.3s ease-in-out;
+}
+.bp2-hipismoreporttablet .bp2-group .bp2-btnoverlay:hover {
+  transform           : scale(1.05);
+}
+.bp2-hipismoreporttablet .bp2-group .bp2-btnoverlay .bp2-rectanglecopy3 {
+  background-color    : rgba(248, 167, 107, 1.0);
+  top                 : 0px;
+  height              : 41px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 14px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-hipismoreporttablet .bp2-group .bp2-btnoverlay .bp2-voltaraosite {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp3-hipismoreportmobile {
+  width               : 100%;
+  min-width           : 320px;
+  height              : 100vh;
+  min-height          : 2099px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp3-hipismoreportmobile .bp3-btnoverlay {
+  background-color    : rgba(255,255,255,0.0);
+  right               : calc(0.00% + 9px);
+  top                 : calc(0.00% + 15px);
+  height              : 41px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.3s ease-in-out;
+}
+.bp3-hipismoreportmobile .bp3-btnoverlay:hover {
+  transform           : scale(1.05);
+}
+.bp3-hipismoreportmobile .bp3-btnoverlay .bp3-rectanglecopy3 {
+  background-color    : rgba(248, 167, 107, 1.0);
+  top                 : 0px;
+  height              : 41px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 14px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp3-hipismoreportmobile .bp3-btnoverlay .bp3-voltaraosite {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.bp3-hipismoreportmobile .bp3-amaneiracomosejo {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 304px;
+  height              : auto;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Book", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 19.0px;
+}
+.bp3-hipismoreportmobile .bp3-amaneiracomosejo-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 160px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-hipismoreportmobile .bp3-amaneiracomosejo .bp3-span1 {
+  
+}
+.bp3-hipismoreportmobile .bp3-amaneiracomosejo .bp3-span2 {
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+}
+.bp3-hipismoreportmobile .bp3-treinamentopioneiro {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 320px;
+  height              : auto;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Black", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.3px;
+  line-height         : 24.0px;
+}
+.bp3-hipismoreportmobile .bp3-treinamentopioneiro-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 87px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-hipismoreportmobile .bp3-treinamentopioneiro .bp3-span1 {
+  
+}
+.bp3-hipismoreportmobile .bp3-treinamentopioneiro .bp3-span2 {
+  
+}
+.bp3-hipismoreportmobile .bp3-unnamed {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 302px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp3-hipismoreportmobile .bp3-unnamed-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 542px;
+  align-items         : center;
+  height              : 226px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-hipismoreportmobile .bp3-saberdecabe347a351n343 {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 304px;
+  height              : auto;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 19.0px;
+}
+.bp3-hipismoreportmobile .bp3-saberdecabe347a351n343-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 859px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-hipismoreportmobile .bp3-observebemodomini {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 304px;
+  height              : auto;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 16.0px;
+}
+.bp3-hipismoreportmobile .bp3-observebemodomini-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 768px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-hipismoreportmobile .bp3-todostemosaevolui {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 302px;
+  height              : auto;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 19.0px;
+}
+.bp3-hipismoreportmobile .bp3-todostemosaevolui-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 1332px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-hipismoreportmobile .bp3-imagem2 {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 302px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp3-hipismoreportmobile .bp3-imagem2-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 1054px;
+  align-items         : center;
+  height              : 201px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-hipismoreportmobile .bp3-desenvolvendocomka {
+  background-color    : rgba(255,255,255,0.0);
+  width               : auto;
+  height              : auto;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp3-hipismoreportmobile .bp3-desenvolvendocomka-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 1254px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-hipismoreportmobile .bp3-video-curto {
+   position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    top: 1800px;
+}
+
+    /* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@media screen and (max-width: 767px) {
+  .bp3-hipismoreportmobile {
+    display             : block;
+  }
+  .bp2-hipismoreporttablet {
+    display             : none;
+  }
+  .bp1-hipismoreport {
+    display             : none;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .bp3-hipismoreportmobile {
+    display             : none;
+  }
+  .bp2-hipismoreporttablet {
+    display             : block;
+  }
+  .bp1-hipismoreport {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1025px) {
+  .bp3-hipismoreportmobile {
+    display             : none;
+  }
+  .bp2-hipismoreporttablet {
+    display             : none;
+  }
+  .bp1-hipismoreport {
+    display             : block;
+  }
+}

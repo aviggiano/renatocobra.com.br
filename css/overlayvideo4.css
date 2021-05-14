@@ -1,0 +1,245 @@
+
+@font-face {
+                          font-family: "Firme-Light";
+                          src: url('../fonts/Firme Light.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "Firme-MediumItalic";
+                          src: url('../fonts/Firme Medium Italic.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "Firme-Book";
+                          src: url('../fonts/Firme Book.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "AndesRoundedW03-SemiBold";
+                          src: url('../fonts/Andes Rounded W03 SemiBold.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "Firme-Black";
+                          src: url('../fonts/Firme Black.otf') format("opentype");
+                        }
+                        
+.overlayvideo4 {
+  width               : 100%;
+  min-width           : 1146px;
+  height              : 100vh;
+  min-height          : 847px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.overlayvideo4 .ctd {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 997px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.overlayvideo4 .ctd-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 15px;
+  align-items         : center;
+  height              : 593px;
+  width               : 100%;
+  position            : relative;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.overlayvideo4 .ctd .entrevistaespa347oh372 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 225px;
+  height              : auto;
+  width               : 325px;
+  position            : absolute;
+  margin              : 0;
+  left                : 674px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Book", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(125, 125, 125, 1.0);
+  text-align          : left;
+  letter-spacing      : 2.89px;
+  line-height         : 35.0px;
+}
+.overlayvideo4 .ctd .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 225px;
+  height              : 368px;
+  width               : 655px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  overflow            : hidden;
+}
+.overlayvideo4 .ctd .espa347oh372mus351umap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 351px;
+  height              : auto;
+  width               : 325px;
+  position            : absolute;
+  margin              : 0;
+  left                : 674px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Book", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(125, 125, 125, 1.0);
+  text-align          : left;
+  letter-spacing      : 2.08px;
+  line-height         : 27.0px;
+}
+.overlayvideo4 .ctd .btnoverlay {
+  background-color    : rgba(255,255,255,0.0);
+  right               : 0%;
+  top                 : 0%;
+  height              : 41px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.3s ease-in-out;
+}
+.overlayvideo4 .ctd .btnoverlay:hover {
+  transform           : scale(1.05);
+}
+.overlayvideo4 .ctd .btnoverlay .rectanglecopy3 {
+  background-color    : rgba(248, 167, 107, 1.0);
+  top                 : 0px;
+  height              : 41px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 14px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.overlayvideo4 .ctd .btnoverlay .voltaraosite {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Firme-Light", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
